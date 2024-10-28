@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Google and TCS
-- 📫 How to reach me  through Linkedin and python
+- 📫 How to reach me  through Linkedin and Github
 - 😄 Pronouns: ...
 - ⚡ Fun fact: eat,sleep,travel,reading novels/books
 
