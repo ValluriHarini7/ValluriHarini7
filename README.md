@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harinj
+- 👋 Hi, I’m Harini
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Google and TCS
